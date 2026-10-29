@@ -4,7 +4,7 @@ Spring Boot CRUD application (Student API) with PostgreSQL, Docker Compose and J
 
 Author: Serik Perizat
 
-Status: initial version
+Status: version 1.0 with full CRUD released by Serik Perizat
 
 ## API
 
