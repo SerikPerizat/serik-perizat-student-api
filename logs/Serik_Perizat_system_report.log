@@ -1,0 +1,86 @@
+==================================================
+ System report
+==================================================
+Student full name : Serik Perizat
+Date and time     : 2026-10-30 02:13:41 +05
+Current username  : piko
+Hostname          : MacBook-Neo-Kazbek
+
+--- Operating system and kernel ---
+ProductName:		macOS
+ProductVersion:		27.2
+BuildVersion:		26B123
+Kernel            : Darwin 27.2.0 (arm64)
+
+--- CPU ---
+Model             : Apple A18 Pro
+Cores             : 6
+Load average      : 4,36 23,73 33,75
+
+--- Memory ---
+Total RAM         : 8192 MB
+System-wide memory free percentage: 30%
+Mach Virtual Memory Statistics: (page size of 16384 bytes)
+Pages free:                                     4781.
+Pages active:                                  75258.
+Pages inactive:                                71654.
+Pages speculative:                              2910.
+
+--- Disk usage ---
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    13Gi    94Gi    13%    487k  983M    0%   /
+/dev/disk3s6     228Gi   2,0Gi    94Gi     3%       2  983M    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   9,5Gi    94Gi    10%    1,4k  983M    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi    79Mi    94Gi     1%     109  983M    0%   /System/Volumes/Update
+/dev/disk1s2     550Mi   6,0Mi   527Mi     2%       1  5,4M    0%   /System/Volumes/xarts
+/dev/disk1s1     550Mi   6,1Mi   527Mi     2%      53  5,4M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     550Mi   6,2Mi   527Mi     2%     884  5,4M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi   108Gi    94Gi    54%    1,6M  983M    0%   /System/Volumes/Data
+/dev/disk3s3     228Gi   1,8Gi    94Gi     2%      73  983M    0%   /Volumes/Recovery
+
+--- Available disk space (home directory) ---
+Available: 94Gi of 228Gi (54% used) on /System/Volumes/Data
+
+==================================================
+ System report
+==================================================
+Student full name : Serik Perizat
+Date and time     : 2026-10-30 02:13:42 +05
+Current username  : piko
+Hostname          : MacBook-Neo-Kazbek
+
+--- Operating system and kernel ---
+ProductName:		macOS
+ProductVersion:		27.2
+BuildVersion:		26B123
+Kernel            : Darwin 27.2.0 (arm64)
+
+--- CPU ---
+Model             : Apple A18 Pro
+Cores             : 6
+Load average      : 4,36 23,73 33,75
+
+--- Memory ---
+Total RAM         : 8192 MB
+System-wide memory free percentage: 31%
+Mach Virtual Memory Statistics: (page size of 16384 bytes)
+Pages free:                                     4902.
+Pages active:                                  76377.
+Pages inactive:                                70509.
+Pages speculative:                              4051.
+
+--- Disk usage ---
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    13Gi    94Gi    13%    487k  983M    0%   /
+/dev/disk3s6     228Gi   2,0Gi    94Gi     3%       2  983M    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   9,5Gi    94Gi    10%    1,4k  983M    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi    79Mi    94Gi     1%     109  983M    0%   /System/Volumes/Update
+/dev/disk1s2     550Mi   6,0Mi   527Mi     2%       1  5,4M    0%   /System/Volumes/xarts
+/dev/disk1s1     550Mi   6,1Mi   527Mi     2%      53  5,4M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     550Mi   6,2Mi   527Mi     2%     884  5,4M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi   108Gi    94Gi    54%    1,6M  983M    0%   /System/Volumes/Data
+/dev/disk3s3     228Gi   1,8Gi    94Gi     2%      73  983M    0%   /Volumes/Recovery
+
+--- Available disk space (home directory) ---
+Available: 94Gi of 228Gi (54% used) on /System/Volumes/Data
+
